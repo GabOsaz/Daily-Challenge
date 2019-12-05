@@ -1,5 +1,5 @@
 # Daily-Challenge
-<!DOCTYPE html>
+
 <html>
   <head>
     <meta charset="utf-8">
@@ -18,7 +18,7 @@
   <body>
     <h1 class ="morning">Morning Challenge </h1>
     
-     </ul>
+     
 
      <h2 class ="heading"> Using Git bash Command line</h2>
       <p>To create a directory named my-folder:</p>
